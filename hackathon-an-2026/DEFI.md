@@ -55,8 +55,8 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [ ] `legiwatch-serveur-mcp-parlement` — Serveur MCP Parlement ✺ LegiWatch
 
 ### Galerie
-- [Image 1](images/image-1.png)
-- [Image 2](images/image-2.png)
+- [Image 1](images/hackathon-an-2026-exemple-2.pdf)
+- [Image 2](images/hackathon-an-2026-exemple.pdf)
 
 ### Documents
 - [Image 1](docs/document-1.png)
