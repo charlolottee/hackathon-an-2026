@@ -18,6 +18,8 @@ Il s'agit donc de rendre le cahier bleu plus simple d'accès et davantage lisibl
 
 Ce défi nécessite une certaine précision dans la retransmission du texte, en indiquant les alinéas pastillés des textes débattus, les amendements et leur statut (retenus / retirés / rejetés), leurs auteurs, les scrutins en indiquant le vote des groupes politiques et de leurs députés, l'ordre du jour...
 
+(voir les exemples sur le dépôt de code)
+
 ### Image principale
 ![Image principale](images/cover.png)
 
