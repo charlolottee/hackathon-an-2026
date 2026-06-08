@@ -3,16 +3,20 @@
 Remplissez les sections ci-dessous puis publiez le fichier `hackathon-an-2026/DEFI.md` dans votre dépôt.
 
 ### Nom du défi
-Votre titre de défi
+Automatiser l'assemblage du cahier "articles, amendements et annexes" du JORF
 
 ### Description courte
-Une description courte et claire de votre défi.
+Rendre accessible le cahier "articles, amendements et annexes" du JORF (cahier bleu) de manière automatique, sans nécessiter de "copiés-collés" de la part des assistants de direction ou de gestion
 
 ### Porteur
-Le nom de votre équipe ou porteur.
+Charlotte R
 
 ### Description longue
-Décrivez ici votre défi, son contexte, ses objectifs et son déroulé.
+Ce défi a pour objet de faciliter le travail des assistants de direction ou de gestion de la direction des comptes rendus, de gagner du temps, mais aussi d'améliorer l'accessibilité du cahier bleu de l'Assemblée Nationale aux citoyens.
+
+Il s'agit donc de rendre le cahier bleu plus simple d'accès et davantage lisible et abordable.
+
+Ce défi nécessite une certaine précision dans la retransmission du texte, en indiquant les alinéas pastillés des textes débattus, les amendements et leur statut (retenus / retirés / rejetés), leurs auteurs, les scrutins en indiquant le vote des groupes politiques et de leurs députés, l'ordre du jour...
 
 ### Image principale
 ![Image principale](images/cover.png)
